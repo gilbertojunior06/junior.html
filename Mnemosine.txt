@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Mnemosine
 para aparecer no gitub
 3
 4
 5
 6
+=======
+# teste
+>>>>>>> 5416c4362392252f6307ea7d7e70e3305a565219
