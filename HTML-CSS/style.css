@@ -119,5 +119,5 @@ a:active{
 .card{
     background: var(--fundo-card);
     border: 1px solid var(--borda-card);
-    padding: ;
+    padding:0 ;
 }
